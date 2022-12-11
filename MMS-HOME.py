@@ -89,7 +89,6 @@ def save_hasil():
 	print(f"\r{P} ────────────────────────────────────")
 	print(f' akun ok di : {sim_ok}\n akun cp di : {sim_cp}')
 	print(f"\r{P} ────────────────────────────────────")
-clear()
 os.system("xdg-open https://www.facebook.com/musa.khan.39545")
 		
 ###---[ MENU ]---###
